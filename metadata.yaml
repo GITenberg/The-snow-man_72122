@@ -1,0 +1,36 @@
+_repo: The-snow-man_72122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72122'
+language: en
+pgterms:marc904: https://archive.org/details/snowmans00sandrich/page/n11/mode/2up
+pgterms:marc905: 20220629235058sand
+pgterms:marc906: '1870'
+pgterms:marc907: US
+production_note: Charlene Taylor, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bLittle, Brown and Company, $c1870, copyright 1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The snow man
+url: http://www.gutenberg.org/ebooks/72122
