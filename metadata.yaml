@@ -1,5 +1,8 @@
 _repo: The-snow-man_72122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72122-h/images/cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72122#The-snow-man
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72122'
